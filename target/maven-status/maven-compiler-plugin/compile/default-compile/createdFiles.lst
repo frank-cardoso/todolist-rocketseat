@@ -1,0 +1,10 @@
+com\project\frank\todolist\task\ITaskRepository.class
+com\project\frank\todolist\TodolistApplication.class
+com\project\frank\todolist\user\IUserRepository.class
+com\project\frank\todolist\user\UserController.class
+com\project\frank\todolist\errors\ExceptionHandlerController.class
+com\project\frank\todolist\task\taskController.class
+com\project\frank\todolist\task\TaskModel.class
+com\project\frank\todolist\utils\Utils.class
+com\project\frank\todolist\user\UserModel.class
+com\project\frank\todolist\filter\FilterTaskAuth.class
